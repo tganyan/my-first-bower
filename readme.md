@@ -12,4 +12,4 @@ Run this: `bower install my-first-bower --save`
 
 ... and then include this path in your main sass file.
 
-`@import 'your-path/my-first-bower'`
+`@import 'your-path/_mixins.scss'`
